@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         poppins: ['var(--font-poppins)', ...fontFamily.sans],
       },
+      colors: {
+        'redishpinksh': '#F71447',
+      }
     },
   },
   plugins: [],
