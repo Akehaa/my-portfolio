@@ -124,7 +124,6 @@ export function Skills() {
           </Tooltip.Content>
         </Tooltip.Portal>
       </Tooltip.Root>
-
     </Tooltip.Provider>
 
   )
