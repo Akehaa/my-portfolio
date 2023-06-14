@@ -2,7 +2,7 @@ import profile from "@/public/profile.jpg"
 import Image from "next/image";
 import Link from "next/link";
 import { AiFillGithub, AiFillLinkedin, AiOutlineTwitter } from "react-icons/ai";
-import { SiCss3, SiHtml5, SiJavascript, SiNextdotjs, SiReact, SiTailwindcss, SiTypescript } from 'react-icons/si'
+import { Skills } from "./Skills";
 
 export function Header() {
   return (
@@ -38,13 +38,7 @@ export function Header() {
           <span className="text-xl">SKILLS:</span>
         </div>
         <div className="flex gap-3 lg:gap-12">
-          <SiHtml5 size="auto" className="text-[#DC3D1C] w-9 lg:w-11 " />
-          <SiCss3 size="auto" className="text-[#0062B1] w-9 lg:w-11" />
-          <SiJavascript size="auto" className="text-[#EAD41C] bg-black w-9 lg:w-11 " />
-          <SiNextdotjs size="auto" className="w-9 lg:w-11" />
-          <SiTypescript size="auto" className="text-[#2F72BC] w-9 lg:w-11" />
-          <SiReact size="auto" className="text-[#5CCFEE] w-9  lg:w-11" />
-          <SiTailwindcss size="auto" className="text-[#35B3EB] w-9  lg:w-11" />
+          <Skills />
         </div>
       </div>
     </header>
