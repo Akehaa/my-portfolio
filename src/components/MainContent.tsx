@@ -1,5 +1,5 @@
-import { About } from "./About";
-import { Projects } from "./Projects";
+import { About } from "./MainContent/About";
+import { Projects } from "./MainContent/Projects";
 
 export function MainContent() {
   return (

@@ -2,7 +2,7 @@ import profile from "@/public/profile.jpg"
 import Image from "next/image";
 import Link from "next/link";
 import { AiFillGithub, AiFillLinkedin, AiOutlineTwitter } from "react-icons/ai";
-import { Skills } from "./Skills";
+import { Skills } from "./Header/Skills";
 
 export function Header() {
   return (
