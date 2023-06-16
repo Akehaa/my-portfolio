@@ -6,7 +6,7 @@ import { Skills } from "./Header/Skills";
 
 export function Header() {
   return (
-    <header className="bg-gradient-to-b from-gray-200 via-white to-gray-200 h-screen flex flex-col items-center justify-center">
+    <header id="home" className="bg-gradient-to-b from-gray-200 via-white to-gray-200 h-screen flex flex-col items-center justify-center">
       <div className="flex flex-col items-center justify-center mb-10 mt-40 lg:mt-0 lg:flex-row">
         <Image src={profile} width={250} height={0} alt="profile picture" className="mb-12 rounded-full shadow-[4px_10px_25px_rgba(0,0,0,0.3)] w-52 h-auto lg:w-60 lg:mb-0"></Image>
         <div className="flex flex-col items-center mx-10 text-center gap-6 lg:text-left lg:items-start">
