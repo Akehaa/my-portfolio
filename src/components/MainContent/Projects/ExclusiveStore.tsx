@@ -21,7 +21,7 @@ export function ExclusiveStore() {
         </div>
         <div className="flex flex-col">
           <span className="font-bold mb-4 text-left">Design:</span>
-          <p className="mb-4">A free design from <Link href="https://www.figma.com/">Figma</Link>. It was made by: <Link href="https://www.figma.com/@mdrimel15" target="_blank" className="font-bold">@mdrimel15</Link></p>
+          <p className="mb-4">A free design from <span className="font-bold">Figma</span>. It was made by: <Link href="https://www.figma.com/@mdrimel15" target="_blank" className="font-bold">@mdrimel15</Link></p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
           <Link href="https://github.com/Akehaa/exclusive-store" target="_blank" aria-label="GitHub Repo" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
