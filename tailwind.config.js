@@ -14,7 +14,10 @@ module.exports = {
       },
       colors: {
         'redishpinksh': '#F71447',
-      }
+      },
+      screens: {
+        '3xl': '2100px',
+      },
     },
   },
   plugins: [],
