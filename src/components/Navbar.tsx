@@ -6,7 +6,7 @@ import { AiOutlineHome } from 'react-icons/ai'
 export function Navbar() {
   return (
     <div className="fixed">
-      <div className="flex text-xs text-gray-100 w-screen bg-gradient-to-l from-[#fa7c8d] via-redishpinksh to-[#fa7c8d] py-3 mx-auto justify-center -translate-y-7 gap-8 hover:-translate-y-0 duration-300 md:gap-10 lg:gap-12 2xl:gap-16 group">
+      <div className="flex text-base text-gray-100 w-screen bg-gradient-to-l from-[#fa7c8d] via-redishpinksh to-[#fa7c8d] py-3 mx-auto justify-center -translate-y-7 gap-8 hover:-translate-y-0 duration-300 md:gap-10 lg:gap-12 2xl:gap-16 group">
         <div className="gap-8 hidden group-hover:flex duration-200">
           <Link href="#home" className="px-3 py-2 hover:text-black font-semibold hover:-translate-y-1 duration-300">HOME</Link>
           <Link href="#about" className="px-3 py-2 hover:text-black font-semibold hover:-translate-y-1 duration-300">ABOUT</Link>

@@ -10,9 +10,9 @@ export function BookSearch() {
       <Link href="https://akehaa-book-search.vercel.app/" target="_blank" aria-label="Live">
         <Image src={bookSearchHome} width={900} height={0} alt="exclusive store home page" className="h-auto rounded hover:shadow-lg lg:hover:shadow-gray-400 duration-200 lg:hover:-translate-x-1 lg:hover:-translate-y-1 mb-6 xl:mb-0" />
       </Link>
-      <div className="p-6 text-sm lg:p-0 lg:flex lg:flex-col lg:justify-between">
+      <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
         <div>
-          <h3 className="text-lg text-left mb-4 font-bold">Book Search</h3>
+          <h3 className="text-xl text-left mb-4 font-bold">Book Search</h3>
           <p className="mb-4">Uses the Google Books APIs to search for any book that is in the Google database and return cards with a couple of infos about the founded books. You can click a card to open a new tab with more informations about the selected book and a link to see it on google play.</p>
         </div>
         <div className="flex flex-col mb-4">
