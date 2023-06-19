@@ -17,7 +17,7 @@ export function ExclusiveStore() {
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">It uses:</span>
-          <p>NextJS 13, TypeScript, TailwindCSS with PostCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
+          <p>React, NextJS 13, TypeScript, TailwindCSS with PostCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
         </div>
         <div className="flex flex-col">
           <span className="font-bold mb-4 text-left">Design:</span>
