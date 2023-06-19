@@ -12,8 +12,8 @@ export function BookSearch() {
       </Link>
       <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
         <div>
-          <h3 className="text-xl text-left mb-4 font-bold">Book Search</h3>
-          <p className="mb-4">Uses the Google Books APIs to search for any book that is in the Google database and return cards with a couple of infos about the founded books. You can click a card to open a new tab with more informations about the selected book and a link to see it on google play.</p>
+          <h3 className="text-xl text-left mb-4 font-bold">BookSearch</h3>
+          <p className="mb-4">Uses the Google Books APIs to search for any book that is in the Google database and return cards with a couple of information about the books. The user can click a card to open a new tab to see more about the selected book and a link to see it on google play.</p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">It uses:</span>
