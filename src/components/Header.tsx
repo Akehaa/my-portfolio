@@ -20,7 +20,7 @@ export function Header() {
           <div className="flex flex-col items-center gap-6 lg:flex-row">
             <Link href="/resume.pdf" target="_blank" className="bg-redishpinksh py-3 px-7 text-sm rounded-3xl text-white hover:opacity-70 duration-200">Resume</Link>
             <div className="flex gap-6">
-              <Link href="mailto:akeehaa@gmail.com" target="_blank" className="text-redishpinksh" aria-label="LinkedIn">
+              <Link href="mailto:akehaa.dev@gmail.com" target="_blank" className="text-redishpinksh" aria-label="LinkedIn">
                 <AiOutlineMail size='auto' className="w-10 p-1 shadow-inner shadow-redishpinksh hover:text-[#4285F4] hover:shadow-[#4285F4] duration-200" />
               </Link>
               <Link href="https://www.linkedin.com/in/akehaa/" target="_blank" className="text-redishpinksh" aria-label="LinkedIn">
