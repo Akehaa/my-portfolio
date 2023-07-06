@@ -3,7 +3,7 @@ import { Poppins } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react';
 
 export const metadata = {
-  title: 'Dener Araujo - Front-end React Developer',
+  title: 'Dener Araujo - Front-end Web Developer',
   description: `Dener Araujo's portfolio`,
 }
 
