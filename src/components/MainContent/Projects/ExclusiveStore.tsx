@@ -13,7 +13,7 @@ export function ExclusiveStore() {
       <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
         <div>
           <h3 className="text-xl text-left mb-4 font-bold">Exclusive Store</h3>
-          <p className="mb-4">An e-commerce that uses the new app router from NextJS 13, a couple of libraries and theStripe API for products and checkout.</p>
+          <p className="mb-4">An e-commerce that uses the new app router from NextJS 13, a couple of libraries and the Stripe API for products and checkout.</p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">It uses:</span>
