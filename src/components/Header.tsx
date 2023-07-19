@@ -14,7 +14,7 @@ export function Header() {
           <h1 className="text-3xl"><span className="text-redishpinksh">DENER</span> ARAUJO</h1>
           <p className="text-lg">
             You may know me as <span className="text-redishpinksh">AKEHAA</span>.<br />
-            I am a <span className="text-redishpinksh">Front-end Web Developer<span className="text-black"> based in</span> Brazil</span><br /> that
+            I am a <span className="text-redishpinksh">Front-end Developer<span className="text-black"> based in</span> Brazil</span><br /> that
             loves learning new techs and has lots of curiosity.
           </p>
           <div className="flex flex-col items-center gap-6 lg:flex-row">
