@@ -13,11 +13,11 @@ export function ExclusiveStore() {
       <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
         <div>
           <h3 className="text-xl text-left mb-4 font-bold">Exclusive Store</h3>
-          <p className="mb-4">An e-commerce that uses the new app router from NextJS 13, a couple of libraries and the Stripe API for products and checkout.</p>
+          <p className="mb-4">An e-commerce that uses React & NextJS, a couple of libraries and the Stripe API for products and checkout.</p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">It uses:</span>
-          <p>React, NextJS 13, TypeScript, TailwindCSS with PostCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
+          <p>React, NextJS, TypeScript, TailwindCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
         </div>
         <span className="text-sm underline font-semibold mb-4">Some features such as colors, sizes, filters, login, etc., do not work due to lack of a proper back-end and DB.
         </span>
