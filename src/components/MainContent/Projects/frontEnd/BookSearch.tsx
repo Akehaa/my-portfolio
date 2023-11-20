@@ -16,13 +16,13 @@ export function BookSearch() {
           <p className="mb-4">Uses the Google Books APIs to search for any book that is in the Google database and return cards with a couple of information about the books. The user can click a card to open a new tab to see more about the selected book and a link to see it on google play.</p>
         </div>
         <div className="flex flex-col mb-4">
-          <span className="font-bold mb-4 text-left">It uses:</span>
+          <span className="font-bold mb-4 text-left">Technologies:</span>
           <p>React, NextJS 12, TypeScript, TailwindCSS and Google Books API. </p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
-          <Link href="https://github.com/Akehaa/book-search" target="_blank" aria-label="GitHub Repo" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
+          <Link href="https://github.com/Akehaa/book-search" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <AiFillGithub size='auto' className="w-10 p-1" />
-            <span className="font-bold">Repo</span>
+            <span className="font-bold">GitHub</span>
           </Link>
           <Link href="https://akehaa-book-search.vercel.app/" target="_blank" aria-label="Live" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <BiLinkExternal size='auto' className="w-9 p-1" />

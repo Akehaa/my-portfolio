@@ -16,7 +16,7 @@ export function ExclusiveStore() {
           <p className="mb-4">An e-commerce that uses React & NextJS, a couple of libraries and the Stripe API for products and checkout.</p>
         </div>
         <div className="flex flex-col mb-4">
-          <span className="font-bold mb-4 text-left">It uses:</span>
+          <span className="font-bold mb-4 text-left">Technologies:</span>
           <p>React, NextJS, TypeScript, TailwindCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
         </div>
         <span className="text-sm underline font-semibold mb-4">Some features such as colors, sizes, filters, login, etc., do not work due to lack of a proper back-end and DB.
@@ -26,9 +26,9 @@ export function ExclusiveStore() {
           <p className="mb-4">A free design from <span className="font-bold">Figma</span>. It was made by: <Link href="https://www.figma.com/@mdrimel15" target="_blank" className="font-bold">@mdrimel15</Link></p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
-          <Link href="https://github.com/Akehaa/exclusive-store" target="_blank" aria-label="GitHub Repo" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
+          <Link href="https://github.com/Akehaa/exclusive-store" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <AiFillGithub size='auto' className="w-10 p-1" />
-            <span className="font-bold">Repo</span>
+            <span className="font-bold">GitHub</span>
           </Link>
           <Link href="https://akehaa-exclusive-store.vercel.app/" target="_blank" aria-label="Live" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <BiLinkExternal size='auto' className="w-9 p-1" />
