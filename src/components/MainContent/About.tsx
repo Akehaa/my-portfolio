@@ -11,9 +11,9 @@ export function About() {
         <br />   
         My <span className="text-redishpinksh font-bold">Front-end</span>  experiences lies in <span className="font-bold">JavaScript</span>, <span className="font-bold">TypeScript</span>, <span className="font-bold">React</span>, <span className="font-bold">Next.js</span>, <span className="font-bold">TailwindCSS</span>, UIs like <span className="font-bold">MUI</span> and <span className="font-bold">Radix-UI</span>, and <span className="font-bold">Figma</span>.<br />
         <br />   
-        My <span className="text-redishpinksh font-bold">Back-end</span> experiences lies in <span className="font-bold">JavaScript</span>, <span className="font-bold">TypeScript</span>, <span className="font-bold">Node.js</span>, <span className="font-bold">NestJS</span>, <span className="font-bold">Vitest</span>, <span className="font-bold">PostgreeSQL</span>, <span className="font-bold">Docker</span> and <span className="font-bold">Prisma</span>.
+        My <span className="text-redishpinksh font-bold">Back-end</span> experiences lies in <span className="font-bold">JavaScript</span>, <span className="font-bold">TypeScript</span>, <span className="font-bold">Node.js</span>, <span className="font-bold">NestJS</span>, <span className="font-bold">Vitest</span>, <span className="font-bold">PostgreeSQL</span>, <span className="font-bold">Docker</span>, <span className="font-bold">Prisma</span> and <span className="font-bold">Cloudflare R2</span>.
         <br />   
-        <br />   
+        <br />
         I'm constantly exploring new technologies and i really enjoy staying up to date with the latest trends in the market.
       </p>
     </div>
