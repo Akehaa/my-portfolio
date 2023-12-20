@@ -13,7 +13,7 @@ export function Header() {
           <span>Hi! My name is</span>
           <h1 className="text-3xl"><span className="text-redishpinksh">DENER</span> ARAUJO</h1>
           <p className="text-lg">
-            I am a <span className="text-redishpinksh">Full Stack Web Developer<span className="text-black"> based in</span> Brazil</span><br />
+            I am a <span className="text-redishpinksh">Full Stack Developer<span className="text-black"> based in</span> Brazil</span><br />
             that loves learning new techs and it's extremely curious.
           </p>
           <div className="flex flex-col items-center gap-6 lg:flex-row">
