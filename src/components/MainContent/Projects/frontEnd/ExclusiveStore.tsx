@@ -19,8 +19,6 @@ export function ExclusiveStore() {
           <span className="font-bold mb-4 text-left">Technologies:</span>
           <p>React, NextJS, TypeScript, TailwindCSS, Stripe API, React-Slick, Material UI and Radix-UI.</p>
         </div>
-        <span className="text-sm underline font-semibold mb-4">Some features such as colors, sizes, filters, login, etc., do not work due to lack of a proper back-end and DB.
-        </span>
         <div className="flex flex-col">
           <span className="font-bold mb-4 text-left">Design:</span>
           <p className="mb-4">A free design from <span className="font-bold">Figma</span>. It was made by: <Link href="https://www.figma.com/@mdrimel15" target="_blank" className="font-bold">@mdrimel15</Link></p>
