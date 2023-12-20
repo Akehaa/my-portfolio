@@ -10,7 +10,14 @@ export function DailyDiet() {
           <p className="mb-4">API developed to assist users in managing their diets, allowing the recording, editing, deletion and statistical analysis of meals. It uses JWT for authentication.
           <br/>
           <br/>
-          It follows a Domain-Driven Design (DDD) approach. Has end-to-end and unit tests to ensure reliability.</p>
+          ・It follows a Domain-Driven Design (DDD) approach.
+          <br/>
+          <br/>
+          ・The API follows a Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Architecture and SOLID.
+          <br/>
+          <br/>
+          ・Has end-to-end and unit tests to ensure reliability.
+          </p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">Technologies:</span>

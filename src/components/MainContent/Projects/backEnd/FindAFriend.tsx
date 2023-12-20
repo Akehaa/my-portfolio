@@ -10,7 +10,17 @@ export function FindAFriend() {
           <p className="mb-4">API Specifically crafted to connect individuals in search of pets with pet adoption organizations. It provides a platform for organizations to register and validate their identity using JWT. Once authenticated, these organizations can upload information about pets available for adoption, view their own profiles, manage the listed pets, and carry out various account-related tasks. For those seeking a pet, the API offers the ability to search for pets using filters, view results in paginated format, and access detailed information about each pet, including the contact details of the respective organization.
           <br/>
           <br/>
-          The API follows a Test-Driven Development (TDD) and Domain-Driven Design (DDD) approach. To ensure reliability and accuracy, it is equipped with a comprehensive set of end-to-end and unit tests. Uses Cloudflare R2 for storage.</p>
+          ・The API follows a Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Architecture and SOLID.
+          <br/>
+          <br/>
+          ・To ensure reliability and accuracy, it is equipped with a comprehensive set of end-to-end and unit tests.
+          <br/>
+          <br/>
+          ・Uses Cloudflare R2 for storage.
+          <br/>
+          <br/>
+          ・It provides a platform for organizations to register and validate their identity using JWT.
+          </p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">Technologies:</span>
