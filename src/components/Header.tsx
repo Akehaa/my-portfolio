@@ -14,7 +14,7 @@ export function Header() {
           <h1 className="text-3xl"><span className="text-redishpinksh">DENER</span> ARAUJO</h1>
           <p className="text-lg">
             I am a <span className="text-redishpinksh">Full Stack Developer<span className="text-black"> based in</span> Brazil</span><br />
-            that loves learning new techs and it's extremely curious.
+            who loves learning new tech and is extremely curious.
           </p>
           <div className="flex flex-col items-center gap-6 lg:flex-row">
             <Link href="/resume.pdf" target="_blank" className="bg-redishpinksh py-3 px-7 text-sm rounded-3xl text-white hover:opacity-70 duration-200">Resume</Link>
