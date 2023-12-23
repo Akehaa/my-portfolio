@@ -13,7 +13,7 @@ export function ExclusiveStore() {
       <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
         <div>
           <h3 className="text-xl text-left mb-4 font-bold">Exclusive Store</h3>
-          <p className="mb-4">An e-commerce platform built with React and NextJS, incorporating libraries such as React-Slick, Material UI and Radix-UI.</p>
+          <p className="mb-4">An e-commerce platform built with React and NextJS, incorporating libraries such as React-Slick, Material UI and Radix-UI. It makes use of the context API for the shopping cart system and consumes the Stripe API to perform the checkout. </p>
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">Technologies:</span>
