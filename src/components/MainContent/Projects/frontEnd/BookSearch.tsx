@@ -17,7 +17,7 @@ export function BookSearch() {
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">Technologies:</span>
-          <p>React, NextJS 12, TypeScript, TailwindCSS and Google Books API. </p>
+          <p>HTML5, CSS3, TypeScript, React, NextJS 12, TailwindCSS and Google Books API. </p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
           <Link href="https://github.com/Akehaa/book-search" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">

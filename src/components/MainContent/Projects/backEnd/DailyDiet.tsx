@@ -21,7 +21,7 @@ export function DailyDiet() {
         </div>
         <div className="flex flex-col mb-4">
           <span className="font-bold mb-4 text-left">Technologies:</span>
-          <p>Node.js, TypeScript, NestJS, Vitest, PostgreSQL, Docker, and Prisma.</p>
+          <p>TypeScript, Node.js, NestJS, Vitest, PostgreSQL, Docker, and Prisma.</p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
           <Link href="https://github.com/deneruaraujo/daily-diet-api" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
