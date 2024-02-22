@@ -1,7 +1,7 @@
 import profile from "@/public/profile.jpg"
 import Image from "next/image";
 import Link from "next/link";
-import { AiFillGithub, AiFillLinkedin, AiOutlineMail} from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin, AiOutlineMail } from "react-icons/ai";
 import { Skills } from "./Header/Skills";
 
 export function Header() {
@@ -33,7 +33,7 @@ export function Header() {
         </div>
       </div>
       <div className="flex gap-3 flex-wrap justify-center lg:gap-12 2xl:flex-nowrap">
-          <Skills />
+        <Skills />
       </div>
     </header>
   )

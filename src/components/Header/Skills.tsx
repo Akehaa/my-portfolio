@@ -8,7 +8,7 @@ export function Skills() {
     <Tooltip.Provider>
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='HTML5'>
+          <button className='cursor-default animate-[bounce_1.01s_ease-in-out_infinite] hover:animate-pulse' aria-label='HTML5'>
             <SiHtml5 size="auto" className="text-[#DC3D1C] w-9 hover:-translate-y-2 duration-200 lg:w-11 " />
           </button>
         </Tooltip.Trigger>
@@ -25,7 +25,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default ' aria-label='CSS3'>
+          <button className='cursor-default animate-[bounce_1.02s_ease-in-out_infinite] hover:animate-pulse' aria-label='CSS3'>
             <SiCss3 size="auto" className="text-[#0062B1] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -42,7 +42,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='JavaScript'>
+          <button className='cursor-default animate-[bounce_1.03s_ease-in-out_infinite] hover:animate-pulse' aria-label='JavaScript'>
             <SiJavascript size="auto" className="text-[#EAD41C] bg-black w-9 hover:-translate-y-2 duration-200 lg:w-11 " />
           </button>
         </Tooltip.Trigger>
@@ -59,7 +59,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='TypeScript'>
+          <button className='cursor-default animate-[bounce_1.04s_ease-in-out_infinite] hover:animate-pulse' aria-label='TypeScript'>
             <SiTypescript size="auto" className="text-[#2F72BC] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -76,7 +76,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='React'>
+          <button className='cursor-default animate-[bounce_1.05s_ease-in-out_infinite] hover:animate-pulse' aria-label='React'>
             <SiReact size="auto" className="text-[#5CCFEE] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -93,7 +93,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Next.js'>
+          <button className='cursor-default animate-[bounce_1.06s_ease-in-out_infinite] hover:animate-pulse' aria-label='Next.js'>
             <SiNextdotjs size="auto" className="w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -110,7 +110,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Tailwind'>
+          <button className='cursor-default animate-[bounce_1.07s_ease-in-out_infinite] hover:animate-pulse' aria-label='Tailwind'>
             <SiTailwindcss size="auto" className="text-[#35B3EB] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -127,7 +127,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Node.js'>
+          <button className='cursor-default animate-[bounce_1.08s_ease-in-out_infinite] hover:animate-pulse' aria-label='Node.js'>
             <SiNodedotjs size="auto" className="text-[#80BD41] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -144,7 +144,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='NestJS'>
+          <button className='cursor-default animate-[bounce_1.09s_ease-in-out_infinite] hover:animate-pulse' aria-label='NestJS'>
             <SiNestjs size="auto" className="text-[#E0234E] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -161,7 +161,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Vitest'>
+          <button className='cursor-default animate-[bounce_1.10s_ease-in-out_infinite] hover:animate-pulse' aria-label='Vitest'>
             <SiVitest size="auto" className="text-[#2D3748] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -178,7 +178,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Jest'>
+          <button className='cursor-default animate-[bounce_1.11s_ease-in-out_infinite] hover:animate-pulse' aria-label='Jest'>
             <SiJest size="auto" className="text-[#2D3748] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -195,7 +195,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='PostgreSQL'>
+          <button className='cursor-default animate-[bounce_1.12s_ease-in-out_infinite] hover:animate-pulse' aria-label='PostgreSQL'>
             <SiPostgresql size="auto" className="text-[#336791] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -212,7 +212,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Docker'>
+          <button className='cursor-default animate-[bounce_1.13s_ease-in-out_infinite] hover:animate-pulse' aria-label='Docker'>
             <SiDocker size="auto" className="text-[#1D63ED] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
@@ -229,7 +229,7 @@ export function Skills() {
 
       <Tooltip.Root>
         <Tooltip.Trigger asChild>
-          <button className='cursor-default' aria-label='Prisma'>
+          <button className='cursor-default animate-[bounce_1.14s_ease-in-out_infinite] hover:animate-pulse' aria-label='Prisma'>
             <SiPrisma size="auto" className="text-[#2D3748] w-9 hover:-translate-y-2 duration-200 lg:w-11" />
           </button>
         </Tooltip.Trigger>
