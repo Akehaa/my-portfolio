@@ -7,7 +7,7 @@ import { BiLinkExternal } from "react-icons/bi";
 export function BookSearch() {
   return (
     <div className="shadow-inner shadow-gray-300 bg-gradient-to-l from-gray-200 via-white to-gray-200 rounded-2xl mx-8 mb-14 w-3/4 md:mx-auto md:p-12 lg:gap-8 lg:text-lg lg:p-12 xl:grid xl:grid-cols-[50%_50%] xl:w-3/4 3xl:w-4/6">
-      <Link href="https://akehaa-book-search.vercel.app/" target="_blank" aria-label="Live">
+      <Link href="https://deneruaraujo-book-search.vercel.app/" target="_blank" aria-label="Live">
         <Image src={bookSearchHome} width={1000} height={0} alt="exclusive store home page" className="h-auto rounded hover:shadow-lg lg:hover:shadow-gray-400 duration-200 lg:hover:-translate-x-1 lg:hover:-translate-y-1 mb-6 xl:mb-0" />
       </Link>
       <div className="p-6 lg:p-0 lg:flex lg:flex-col lg:justify-between">
@@ -20,11 +20,11 @@ export function BookSearch() {
           <p>HTML5, CSS3, TypeScript, React, NextJS 12, TailwindCSS and Google Books API. </p>
         </div>
         <div className="flex items-center justify-center gap-12 lg:justify-normal">
-          <Link href="https://github.com/Akehaa/book-search" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
+          <Link href="https://github.com/Deneruaraujo/book-search" target="_blank" aria-label="GitHub GitHub" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <AiFillGithub size='auto' className="w-10 p-1" />
             <span className="font-bold">GitHub</span>
           </Link>
-          <Link href="https://akehaa-book-search.vercel.app/" target="_blank" aria-label="Live" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
+          <Link href="https://deneruaraujo-book-search.vercel.app/" target="_blank" aria-label="Live" className="flex items-center hover:text-redishpinksh hover:-translate-y-1 duration-200">
             <BiLinkExternal size='auto' className="w-9 p-1" />
             <span className="font-bold">Live</span>
           </Link>
