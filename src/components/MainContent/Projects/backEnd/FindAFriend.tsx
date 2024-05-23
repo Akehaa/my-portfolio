@@ -49,10 +49,10 @@ export function FindAFriend() {
                 ・A API segue o Desenvolvimento Orientado a Testes (Test-Driven Development - TDD), Design Orientado a Domínio (Domain-Driven Design - DDD), Arquitetura Limpa (Clean Architecture) e os princípios SOLID.
                 <br />
                 <br />
-                ・To ensure reliability and accuracy, it is equipped with a comprehensive set of end-to-end and unit tests.
-                <br />
-                <br />
                 ・Para garantir confiabilidade e precisão, ela está equipada com um conjunto abrangente de testes de ponta a ponta e testes unitários.
+                <br />
+                <br />
+                ・Usa Cloudflare R2 para upload de arquivos.
                 <br />
                 <br />
                 ・Ela fornece uma plataforma para que organizações possam se registrar e validar sua identidade usando JWT.
